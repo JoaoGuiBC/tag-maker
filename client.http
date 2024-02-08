@@ -1,4 +1,4 @@
-### test
+### Create Tag
 POST http://localhost:3333/create_tag
 content-type: application/json
 
